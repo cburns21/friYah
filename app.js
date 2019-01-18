@@ -1,7 +1,10 @@
 const express = require('express')
 const app = express()
-const port = 3210
+const port = process.env.PORT || 3210
+const env = require('dotenv').config()
 const data = require('./data.json')
+
+
 
 app.use(express.static('public'))
 
