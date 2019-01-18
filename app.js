@@ -32,4 +32,8 @@ app.use(function (err, req, res, next) {
     res.status(500).send('Something broke!')
   })
 
+  app.post('/', function (req, res) {
+    res.send('POST request to the homepage')
+  })
+
 app.listen(port, () => console.log(`Porty on ${port}`))
