@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "girl": "Cady Heron",
+            "pic": "/cady.jpeg",
+            "reason": "You're much more than a homeschooled jungle freak. You have great roots and so much to offer, but you often find yourself getting caught up in other peopl's drama. We can thank you for the resurgence of cargo pants. Pretty gruel!"
+        },
+        {
+            "girl": "Gretchen Weiners",
+            "pic": "/gretchen.jpg",
+            "reason": "Drama, drama, drama. You know you love it. You know everybodies business and secrets, and you wouldn't have it any other way. A fierce and loyal friend you are, but maybe you haven't found the right friends yet. And let's get real, Gretch. Fetch is never going to happen! "
+        },
+        {
+            "girl": "Regina George",
+            "pic": "/regina.jpg",
+            "reason": "The queen bee. People are drawn to you, but you often rub them the wrong way. And you have some aggression to release. Like, a lot. But otherwise you're pretty clever. Maybe even too clever for you're own good..."
+        },
+        {
+            "girl": "Janis Ian",
+            "pic": "/janis.jpg",
+            "reason": "You're a wildcard, unconventional, and march to the beat of your own drum. A breath of fresh air, if you will. While you may be a diamond in the rough, you're a diamond nonetheless and aren't afraid to tell people what they don't want to hear. Like when they smell like a baby prostitute.  "
+        },
+        {
+            "girl": "Karen Smith",
+            "pic": "/karen.jpg",
+            "reason": "So you're not the sharpest tool in the box, but you have other talents. You just haven't found them yet. It's okay. You have good intentions and can get along with most people, which means we're all rooting for you! But it is imperative that you know you can't marry your cousin no matter how cute he is. "
+        },
+        {
+            "girl": "Coach Carr",
+            "pic": "/coach.jpg",
+            "reason": "Where to begin. Your significant others are most likely half your age and it seems like you have the system all figured out. Don't let it come crashing down on you. Alright, now everybody take a condom."
+        },
+        {
+            "girl": "Ms. Norbury",
+            "pic": "/norbury.png",
+            "reason": "You're a pusher. You push people. You look out for the people you love and always have their best interest in mind. Just don't push them into drugs. "
+        },
+        {
+            "girl": "Principal Duvall",
+            "pic": "/principle.jpg",
+            "reason": "You did NOT leave the South Side for this! You have no time for pettiness or drama but even the tough guys aren't invincible... You too have been personally victimized by Regina George. "
+        },
+        {
+            "girl": "Kevin Gnapoor",
+            "pic": "kevin.jpg",
+            "reason": "Well hello there, Smooth Operator. You're smart and have nice moves but haven't quite figured out how to charm the ladies. Don't worry. We all know you'll be on the cover of Forbes one day... but definitely not in the forseeable future."
+        },
+        {
+            "girl": "Mrs. George",
+            "pic": "/mom.jpg",
+            "reason": "You're a cool mom - not a regular mom. You have a young soul and often don't act your age but who doesn't want to be young forever? At least you don't have to worry about remembering your fake ID."
+        },
+        {
+            "girl": "The Girl Who Made Out With A Hot-Dog",
+            "pic": "/hotdog.png",
+            "reason": "You made out with a hot dog and you'll never live it down"
+        }
+        
+    ]
+}

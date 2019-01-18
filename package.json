@@ -1,0 +1,23 @@
+{
+  "name": "friYah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cburns21/friYah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cburns21/friYah/issues"
+  },
+  "homepage": "https://github.com/cburns21/friYah#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
