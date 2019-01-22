@@ -3,10 +3,13 @@ const app = express()
 const port = process.env.PORT || 3210
 const env = require('dotenv').config()
 const data = require('./data.json')
+const cors = require('cors')
 
 
 
 app.use(express.static('public'))
+
+app.use(cors())
 
 app.get('/data', (req, res, next) => {
     res.status(200).send({
